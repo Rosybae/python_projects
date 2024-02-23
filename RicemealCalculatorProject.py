@@ -1,4 +1,4 @@
-# I added 2 inputs in line 8 and 9
+
 
 child_meal = float(input("What is the price of a child's meal?"))
 adult_meal = float(input("What is the price of a adult's meal?"))
