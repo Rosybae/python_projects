@@ -1,4 +1,3 @@
-# I added quantity of items, this will prompt the user to select the quantity of items which will be displayed
 
 print("Welcome to the Shopping Cart Program!")
 print()
