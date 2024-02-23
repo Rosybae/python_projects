@@ -1,4 +1,4 @@
-# For creativity purpose, I added the count of the total number of countries from the dataset.
+
 
 minimum = 9999
 minimum_country = ''
