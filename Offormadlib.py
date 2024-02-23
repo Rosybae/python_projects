@@ -1,5 +1,4 @@
 #user input 
-#I added more inputs from line 10 to line 17
 
 adjective= input('Give me an adjective:') 
 animal = input ('What is the name of the animal:')
@@ -16,8 +15,6 @@ new_word1= word1.capitalize()
 word2 = ('it')
 new_word2= word2.capitalize()
 
-#actual paragraph 
-#I added two more sentences from line on line 24
 
 madlib= f'The other day, I was really in trouble. It all started when I saw a very {adjective} {animal} {verb1} down the hallway. {exclamation1} I yelled.\
 But all I could think to do was to {verb2} over and over. {new_word1} that caused it to stop, but not before it tried to {verb3} right in front of my family. \
