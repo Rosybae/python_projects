@@ -1,6 +1,3 @@
-# I addeded maximum number of guessing that will tell the user that he/she has exhausted the number of guesses. 
-# But the game will continue playing until the right word is guessed correctly
-
 
 print('Welcome to world guessing game')
 
